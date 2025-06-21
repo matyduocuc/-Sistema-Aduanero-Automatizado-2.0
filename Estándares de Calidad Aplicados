@@ -1,0 +1,22 @@
+# Estándares de Calidad Aplicados
+
+El diseño del sistema considera las siguientes normas y buenas prácticas:
+
+## ISO/IEC 25010
+Guía para calidad de software en términos de mantenibilidad, fiabilidad, usabilidad y eficiencia.
+
+## UML 2.5
+Para modelado estructurado y semántico claro.
+
+## Principios SOLID
+Para mantener cohesión y bajo acoplamiento.
+
+## Control de versiones con Git
+Uso de convenciones semánticas para mantener un flujo de trabajo organizado y controlado.
+
+## Seguridad
+Implementación de medidas de seguridad en el sistema con autenticación basada en JWT, RBAC y HTTPS.
+
+## Modularidad
+Uso de principios de diseño modular que permiten facilitar las pruebas unitarias y el mantenimiento.
+
